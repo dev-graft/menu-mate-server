@@ -40,8 +40,8 @@
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=SonarQube&logoColor=white"> 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> 
 </p>
-### 
 
+### 🖼️ 시스템 아키텍쳐
 
 ## 🛠️ 빌드
 
